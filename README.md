@@ -1,4 +1,4 @@
-# sftpgo
+# SFTPGO
 
 SFTPGo - Servidor SFTP - Docker compose
 
